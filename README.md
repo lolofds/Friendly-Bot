@@ -9,6 +9,6 @@
 
 ## Commands
     
-* [.sarah] : Sarah Fraisou comes up to ask you if you are hungry
-* [.elon] : A random guy, who is like elon musk 
+* .sarah : Sarah Fraisou comes up to ask you if you are hungry
+* .elon : A random guy, who is like elon musk 
   
