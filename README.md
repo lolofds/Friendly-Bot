@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-    <sup>If you want, you can add <a href="https://discord.com/api/oauth2/authorize?client_id=935903746796441620&permissions=469871638&scope=bot/" target="_blank" rel="noreferrer">Friendly !</a><sup>
+    <sup>If you want, you can add <a href="https://discord.com/api/oauth2/authorize?client_id=935903746796441620&permissions=469871638&scope=bot" target="_blank" rel="noreferrer">Friendly !</a><sup>
 </div>
    
 
